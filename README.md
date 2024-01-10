@@ -1,5 +1,5 @@
 # Overview
-This Python package introduces a robust option pricing and analysis module encapsulated within the OptionCalculator class. It serves as a comprehensive toolkit for financial analysts, investors, and decision-makers seeking detailed insights and accurate analysis from extensive financial datasets. The package provides a range of functions utilizing various financial models and numerical methods to compute option-related parameters and prices.
+This Python package introduces an option pricing and analysis module encapsulated within the OptionCalculator class. It serves as a comprehensive toolkit for financial analysts, investors, and decision-makers seeking detailed insights and accurate analysis from extensive financial datasets. The package provides a range of functions utilizing various financial models and numerical methods to compute option-related parameters and prices.
 
 # Package Contents
 ### Introduction
