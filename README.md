@@ -26,7 +26,7 @@ The package incorporates robust error handling mechanisms, encompassing type err
 A real dataset from Yahoo Finance, containing AAPL options data, was utilized to perform option pricing calculations, implied volatility computations, and the analysis of potential arbitrage opportunities.
 
 # Usage and Instructions
-The package offers a wide range of functions that can be utilized for various financial analyses. Users can initialize the option_calculator class with specific parameters (stock price, strike price, risk-free rate, and time to maturity) and leverage functions individually or collectively for:
+The package offers a wide range of functions that can be utilized for various financial analyses. Users can initialize the OptionCalculator class with specific parameters (stock price, strike price, risk-free rate, and time to maturity) and leverage functions individually or collectively for:
 
 1. Calculating option prices using different models (Black-Scholes, binomial tree, Monte-Carlo simulations).
 2. Assessing implied volatilities and identifying arbitrage opportunities.
